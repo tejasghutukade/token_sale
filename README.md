@@ -1,2 +1,3 @@
-# bare-box
-Truffle Box for a bare-minimum Truffle project (`truffle init`)
+# Token Sale
+
+Token sale Example following ERC-20 Token Standard
